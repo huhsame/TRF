@@ -5,7 +5,9 @@ for TRF study
 
 - One page a week
 - The page will have to be written using markdown.
-- feel free to add directorys and files
+- filename is 2019.02.18 - nickname ( Monday based )
+
+feel free to add directories and files
 
 
 
